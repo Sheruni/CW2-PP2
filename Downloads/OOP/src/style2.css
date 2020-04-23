@@ -1,0 +1,21 @@
+/* this stylesheet is for train queue view GUI */
+
+.close{
+ -fx-pref-width: 150px;
+ -fx-pref-height: 30px;
+ -fx-background-color: #483D8B;
+ -fx-font-size:14px;
+ -fx-text-fill:white;
+
+ }
+
+.close:hover{
+  -fx-background-color: #BDB76B;
+ }
+ .icon{
+ -fx-background-color: transparent;
+ -fx-border-color: transparent;
+ -fx-text-fill:white;
+
+ }
+

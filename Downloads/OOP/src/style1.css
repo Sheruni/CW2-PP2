@@ -1,0 +1,24 @@
+ /* this style sheet is for train seats view GUI */
+
+ .button{
+  -fx-pref-width: 100px;
+  -fx-pref-height: 60px;
+   -fx-background-color: #009999;
+    -fx-text-fill:white;
+ }
+.button:disabled{
+  -fx-opacity: 1.0 ;
+}
+.close{
+ -fx-pref-width: 150px;
+ -fx-pref-height: 30px;
+ -fx-background-color: #483D8B;
+ -fx-font-size:14px;
+ -fx-text-fill:white;
+}
+.close:hover{
+  -fx-background-color: #696969;
+ }
+ .label{
+   -fx-font-size:17px;
+ }
